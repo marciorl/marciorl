@@ -185,6 +185,12 @@ Minha abordagem prioriza:
 
 **Safe Sistemas de Gestão**
 
+</div>
+
+---
+
+<div align="center">
+
 ![Visualizações](https://komarev.com/ghpvc/?username=marciorl&label=Visualizações&color=0e75b6&style=flat-square)
 
 </div>
