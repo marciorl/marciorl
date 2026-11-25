@@ -156,7 +156,7 @@ Experiência prática com switches Cisco Catalyst e roteadores Cisco de diferent
 
 ### Formação complementar
 
-- **Administração de Sistemas Linux**..
+- **Administração de Sistemas Linux**.
 - **Telecomunicações & Redes** — PABX e VoIP (Voz sobre IP).
 - **Cabeamento Estruturado** — normas EIA/TIA-568, instalação UTP, patch panels e infraestrutura de redes.
 - **Redes Wireless** — IEEE 802.11a/b/g, access points, antenas e segurança de redes sem fio.
