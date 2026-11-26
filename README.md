@@ -8,7 +8,7 @@
 
 ![Localização](https://img.shields.io/badge/Presidente_Prudente-SP,_Brasil-1f2937?style=flat-square&logo=googlemaps&logoColor=white)
 
-[![Instagram](https://img.shields.io/badge/Instagram-F05032?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/lroicram)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/lroicram)
 
 </div>
 
