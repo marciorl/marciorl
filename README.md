@@ -49,7 +49,7 @@ Desde 2012, concentra sua atuação no desenvolvimento de softwares próprios pa
 **A Safe Sistemas hoje:**
 
 - Mais de 200 empresas utilizando o Safe ERP.
-- Clientes em todos os estados brasileiros.
+- Soluções de software presentes em todos os estados do Brasil.
 - Desenvolvimento próprio de softwares e integrações.
 - Soluções para gestão empresarial, fiscal, automação comercial e atendimento.
 
@@ -126,8 +126,7 @@ Experiência profissional em infraestrutura de TI, administração de servidores
 
 ### Administração de Sistemas
 
-- Administração de sistemas Linux.
-- Distribuições Conectiva Linux e Mandriva.
+- Administração de sistemas Linux e Windows.
 - Instalação, configuração e manutenção de servidores.
 - Serviços de rede e monitoramento de infraestrutura.
 
@@ -159,7 +158,7 @@ Experiência prática com switches Cisco Catalyst e roteadores Cisco de diferent
 - **Administração de Sistemas Linux**.
 - **Telecomunicações & Redes** — PABX e VoIP (Voz sobre IP).
 - **Cabeamento Estruturado** — normas EIA/TIA-568, instalação UTP, patch panels e infraestrutura de redes.
-- **Redes Wireless** — IEEE 802.11a/b/g, access points, antenas e segurança de redes sem fio.
+- **Redes Wireless / Wi-Fi** — IEEE 802.11, access points, antenas, cobertura de sinal e segurança de redes sem fio.
 - **Configuração de Roteadores & Switches Cisco** — equipamentos Catalyst, roteadores de diferentes séries, VLAN, balanceamento de carga e redundância de links.
 - **MikroTik RouterOS** - MD Brasil.
 
